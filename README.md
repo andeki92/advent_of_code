@@ -1,4 +1,3 @@
-<h1 style="text-align:center">Python</h1>
+# Python
 
-<p style="text-align:center">
-🎄 Python (and largely pandas) solutions to the [advent of code](https://adventofcode.com/2018) 🎄</p>
+🎄 Python (and largely pandas) solutions to the [advent of code](https://adventofcode.com/2018) 🎄
