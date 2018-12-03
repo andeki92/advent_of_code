@@ -64,7 +64,7 @@ def part1(df, f):
 
 
 def part2(df, f):
-    return f.claims
+    return f.unique_claims[0]
 
 
 def test():
